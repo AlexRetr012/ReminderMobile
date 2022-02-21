@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ReminderMobile</string>
+    <string name="welcome">Welcome to ReminderMIREA</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="version_0_0_1">Version 0.0.1</string>
+    <string name="warning_use_your_correct_credentials_we_don_t_save_sell_store_your_logins_and_passwords">Warning! Use your correct credentials. We don`t save/sell/store your logins and passwords</string>
 </resources>
